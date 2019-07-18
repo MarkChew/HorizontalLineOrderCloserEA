@@ -12,7 +12,7 @@ To be installed in MT4 Experts folder.
 
 Usage : 
 
-Drag and drop on the chart
+Drag and drop on the chart. Ensure AutoTrading is enabled and EA icon on top right shows a smiley face.
 
 Initial lines will be based on Bid ASk +/- 50 pips
 
